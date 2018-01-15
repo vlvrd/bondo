@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "vlvrd"
+theme = "kube"
+description = ""
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "Sergio Valverde"
+  github = "vlvrd"
+  twitter = "vlvrdv"
+  email = "vlvrdv@gmail.com"
