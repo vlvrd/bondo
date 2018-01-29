@@ -10,3 +10,8 @@ Paginate = 4
   github = "vlvrd"
   twitter = "vlvrdv"
   email = "vlvrdv@gmail.com"
+
+[[menu.main]]
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
