@@ -1,0 +1,21 @@
+{{ $icon_size := "32px" }}
+{{ with .Param "github" }}
+  <a href="https://github.com/{{ . }}" class="link-transition github link dib z-999 pt3 pt0-l mr2" title="{{ . }}">
+    {{ partial "svg/github.svg" (dict "size" $icon_size) }}
+  </a>
+{{ end }}
+{{ with .Param "gitlab" }}
+  <a href="https://gitlab.com/{{ . }}" class="link-transition gitlab link dib z-999 pt3 pt0-l mr2" title="{{ . }}">
+    {{ partial "svg/gitlab.svg" (dict "size" $icon_size) }}
+  </a>
+{{ end }}
+{{ with .Param "instagram" }}
+  <a href="https://instagram.com/{{ . }}" class="link-transition instagram link dib z-999 pt3 pt0-l mr2" title="{{ . }}">
+    {{ partial "svg/instagram.svg" (dict "size" $icon_size) }}
+  </a>
+{{ end }}
+{{ with .Param "twitter" }}
+  <a href="https://twitter.com/{{ . }}" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="{{ . }}">
+    {{ partial "svg/twitter.svg" (dict "size" $icon_size) }}
+  </a>
+{{ end }}
