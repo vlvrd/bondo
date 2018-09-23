@@ -5,8 +5,7 @@ tags: ["about"]
 title: "them"
 ---
 
-i'm mostly trying to get free merch from these guys from their 'aww, he posted a
-link to my stuff'.
+i'm mostly trying to get free merch from these guys from their 'aww, he posted a link to my stuff'.
 
 apps
 ----
@@ -14,5 +13,8 @@ apps
 
 bands
 -----
-[la version extendida de las cosas](https://open.spotify.com/artist/5zfGpBrzndP4czcJTxZgKt)
- - alt punk rock
+[la version extendida de las cosas](https://open.spotify.com/artist/5zfGpBrzndP4czcJTxZgKt) - alt punk rock
+
+tattoos
+-------
+[max rodriguez](https://www.instagram.com/immaxrodriguez/) - awesome tattoos
