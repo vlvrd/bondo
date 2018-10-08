@@ -15,6 +15,10 @@ bands
 -----
 [la version extendida de las cosas](https://open.spotify.com/artist/5zfGpBrzndP4czcJTxZgKt) - alt punk rock
 
+software
+--------
+[kura labs](https://kuralabs.io/) - built by an awesome couple
+
 tattoos
 -------
-[max rodriguez](https://www.instagram.com/immaxrodriguez/) - awesome tattoos
+[max rodriguez](https://www.instagram.com/immaxrodriguez/) - the guy who draws on my arm

@@ -3,9 +3,10 @@ description = "space dojo"
 theme = "ananke"
 title = "vlvrd"
 
-[Params]
+[params]
   author = "sergio valverde"
   background_color_class = "bg-black"
+  body_classes = "monaco bg-white"
   email = "vlvrdv@gmail.com"
   github = "vlvrd"
   gitlab = "vlvrd"

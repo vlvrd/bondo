@@ -1,6 +1,6 @@
 ---
 date: 2018-09-20T12:00:00-00:00
-description: "tbd"
+description: "avocado enthusiast, daydreamer and bruce lee's reincarnation"
 tags: ["about"]
 title: "me"
 ---
@@ -10,9 +10,7 @@ who am i?
 
 i spend lots of nights with my back to the floor. that's usually how i prepare for the next day. in a way, i like to picture myself watching the night sky while doing this. like i'm reaching beyond.
 
-i'm working towards improving free culture, diversity, inclusion, free speech and private conversations.
-
-i'm also bruce lee's reincarnation and an amateur space explorer.
+i'm working towards improving free culture, diversity, inclusion, free speech and private conversations. i like coloring stuff, singing out loud, building computer systems, martial arts, spaceships, nature and eating.
 
 my name is sergio valverde.
 
