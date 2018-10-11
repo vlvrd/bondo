@@ -1,15 +1,18 @@
-baseURL = "https://www.vlvrd.me/"
+BaseURL = "https://www.vlvrd.me/about/"
 description = "space dojo"
+enableEmoji = true
 theme = "ananke"
 title = "vlvrd"
 
 [params]
   author = "sergio valverde"
-  background_color_class = "bg-black"
+  background_color_class = "bg-white"
   body_classes = "monaco bg-white"
+  dev = "vlvrd"
   email = "vlvrdv@gmail.com"
   github = "vlvrd"
   gitlab = "vlvrd"
   instagram = "vlvrd"
+  medium = "vlvrd"
   spotify = "vlvrdv"
   twitter = "vlvrdv"
