@@ -1,4 +1,4 @@
-BaseURL = "https://www.vlvrd.me/about/"
+BaseURL = "https://www.vlvrd.me/"
 description = "space dojo"
 enableEmoji = true
 theme = "ananke"

@@ -4,3 +4,5 @@ title: "blog"
 ---
 
 sometimes i write.
+
+:blue_book: [archive]({{< ref "/blog/archive/_index.md" >}})
