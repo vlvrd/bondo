@@ -1,4 +1,9 @@
 {{ $icon_size := "32px" }}
+{{ with .Param "dev" }}
+  <a href="https://dev.to/{{ . }}" class="link-transition devto link dib z-999 pt3 pt0-l mr2" title="{{ . }}">
+    {{ partial "svg/dev.svg" (dict "size" $icon_size) }}
+  </a>
+{{ end }}
 {{ with .Param "github" }}
   <a href="https://github.com/{{ . }}" class="link-transition github link dib z-999 pt3 pt0-l mr2" title="{{ . }}">
     {{ partial "svg/github.svg" (dict "size" $icon_size) }}

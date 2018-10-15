@@ -8,6 +8,7 @@ title = "vlvrd"
   author = "sergio valverde"
   background_color_class = "bg-white"
   body_classes = "monaco bg-white"
+  custom_css = ["css/_social-icons.css"]
   dev = "vlvrd"
   email = "vlvrdv@gmail.com"
   github = "vlvrd"
