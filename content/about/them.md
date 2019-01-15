@@ -17,8 +17,8 @@ bands
 
 software
 --------
-[kura labs](https://kuralabs.io/) - built by an awesome couple
+[kura labs](https://kuralabs.io/) - built by a nerd couple
 
 tattoos
 -------
-[max rodriguez](https://www.instagram.com/immaxrodriguez/) - the guy who draws on my arm
+[max rodriguez](https://www.instagram.com/immaxrodriguez/) - this guy is awesome

@@ -5,7 +5,7 @@ tags: ["about"]
 title: "vlvrd"
 ---
 
-vlvrd is a space dojo.
+vlvrd is a space colony.
 
 wait.
 
@@ -21,27 +21,18 @@ vlvrd is me pursuing a dream.
 
 ever since i can remember, i've wanted to live in a tree house to hang out in secret when i needed a break.
 
-that tree house eventually became an attic. a place where i could isolate myself while i figured out how to be free, how to sing, dance, write and whatever without anyone staring.
+that tree house eventually became an attic. a place where i could isolate myself while i figured out myself. i hated the attic.
 
-then, it became a spaceship. i wanted to take my home everywhere, just so i could connect with other people and invite them over to the moon.
+then, it became a spaceship. i wanted to connect with what seemed alien to me.
 
-i needed to build a safe world for my mind. so i built an idea and i followed my dream: a zen, but techy, playground that allowed me to create anything i could think of that would mean something to me and to those i care about. somewhere where i can be me and they can be them.
+i felt like i needed to build a safe world for my mind. so i built my thoughts and i then ended up fighting them. until i got some help.
 
-but if i'm about to connect with someone, i want they/she/he to feel safe in this ship too, so this place has a few rules.
+i don't know what it is now but i live here with my friends - you're welcome to tag along if you want to.
 
-- we help one another.
-- we collaborate.
-- no discrimination. ever.
-- no shoes.
+you know, my friends and i, we help one another. we collaborate. no discrimination. ever.
 
-you can practice your craft here without anyone judging. if this doesn't fit you, i'll help you build your own.
+if we work together, who knows? we may end up with a real spaceship someday.
 
-i'll give you my blueprints, even. for free.
-
-i'll just ask you to pay it forward if you do use them, since that's the whole point of this.
-
-but if we combine our ideas, who knows? we may end up with a real spaceship someday. this place is not painted yet and i'll take any new ideas i can get.
-
-that's not the goal yet, though. if this dojo is an imaginary spaceship, it means we're exploring ourselves first.
+that's not the goal yet, though. we're exploring who we are first.
 
 what an adventure!

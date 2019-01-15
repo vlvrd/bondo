@@ -8,19 +8,17 @@ title: "me"
 who am i?
 =========
 
-i spend lots of nights with my back to the floor. that's usually how i prepare for the next day. in a way, i like to picture myself watching the night sky while doing this. like i'm reaching beyond.
+i used to spend lots of nights with my back to the floor. nowadays, when i do, i like to picture myself holding a feather in the air with each breathe while gazing the night sky.
 
-i'm working towards improving free culture, diversity, inclusion, free speech and private conversations. i like coloring stuff, singing out loud, building computer systems, martial arts, spaceships, nature and eating.
-
-my name is sergio valverde but i go by toto when i'm being more honest with myself.
+i'm working towards improving free {culture && speech} and private conversations, while butting heads with . i like animation and nerd stuff (videogames, space stuff,), music, building computer systems, martial arts, spaceships, nature and eating.
 
 more?
 =====
 
-if you want to know a little bit more about me, send me an email to <vlvrdv@gmail.com> or read some of the [articles]({{< ref "/blog/archive/_index.md" >}}) i wrote before i started working on vlvrd.
+if you want to know a little bit more about me, send me an email to <vlvrdv@gmail.com> or read some of the [articles]({{< ref "/blog/archive/_index.md" >}}) i wrote before i started working on this site.
 
-i'm not that present on social media (narrowing posts to vlvrd updates and bad jokes like 'godzilla is dead - japanese nietzsche') but i'm at my most active at [twitter](https://twitter.com/vlvrdv). i also listen to stuff on [spotify](https://open.spotify.com/user/vlvrdv), i'm taking my first [dev.to](https://dev.to/vlvrd) steps and work closely with [automata.network](http://automata.network/).
+you can find me on [twitter](https://twitter.com/vlvrdv), i have some playlists on [spotify](https://open.spotify.com/user/vlvrdv), i'm taking my first [dev.to](https://dev.to/vlvrd) steps (these are going slow) and trying to get [automata.network](http://automata.network/) up and going.
 
-for my professional info, visit my not-updated [linkedin](https://www.linkedin.com/in/sergio-valverde-9058b971/) page or read [why you should hire me]({{< ref "/about/me/hire-me.md" >}}).
+for my professional info, visit my not-well-updated [linkedin](https://www.linkedin.com/in/sergio-valverde-9058b971/) page or read [why you should hire me]({{< ref "/about/me/hire-me.md" >}}).
 
 (• ◡•)
