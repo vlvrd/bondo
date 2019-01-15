@@ -10,7 +10,7 @@ who am i?
 
 i used to spend lots of nights with my back to the floor. nowadays, when i do, i like to picture myself holding a feather in the air with each breathe while gazing the night sky.
 
-i'm working towards improving free {culture && speech} and private conversations, while butting heads with . i like animation and nerd stuff (videogames, space stuff,), music, building computer systems, martial arts, spaceships, nature and eating.
+i'm working towards improving free {culture && speech} and private conversations, while butting heads with people who hate other people. i like music, videogames, reading, space stuff, hiking, DOGS, soccer, eating and traveling.
 
 more?
 =====
