@@ -1,9 +1,52 @@
 ---
 date: 2018-10-07T15:55:00-00:00
-description: "small increment."
+description: "small increments."
 tags: ["about"]
-title: "hikari 0.1.0"
+title: "hikari 0.2.0"
 ---
+
+"the successful warrior is the average man, with laser-like focus."
+
+day 0
+=====
+
+like a lot of software devs, i didn't start this journey in a traditional way. i didn't study a computer-oriented career, i didn't attend a dev bootcamp and i was far from being a programming prodigy.
+
+i started coding when i was 10yo and my dad, who did study computer science, couldn't make me a pokemon tcg database app - he told me he was super busy (he was) and then he gave me a programming book. "read this if you want to know how much it takes to build what you're asking me." he probably knew i'd try to do it myself.
+
+i spent more time working on that app than actually playing the game. then, one day, i gave it up. i didn't like it that much.
+
+flash forward to 2018: i'm working as a systems developer, i've submitted a couple of simple linux kernel patches, i know how to handle myself with modern software development workflows and i'm well respected by my peers and superiors as an overall good junior dev.
+
+and i realized this isn't what i want to do with my life right now.
+
+which isn't at all me saying i hate my job but i'm missing a couple of things right now: working on open-source codebases, helping social causes and doing side projects that are actually fun.
+
+something i've learned is that tech skills are not enough. your projects need purpose. i didn't like programming at 10yo because, even if i did like challenges, i wasn't having fun. same now.
+
+enter [hikari](http://www.github.com/vlvrd/hikari). a focus app that serves a personal purpose: getting *me* focused again.
+
+{% glitch vlvrd-hikari %}
+
+i'm writing this post so that you have a light to follow if you're also taking your first steps at learning something - have fun with it, it doesn't have to be perfect. you just have to explore it. and if you're already on the greener side of the fence, maybe consider helping someone else getting there. we could all use some help.
+
+i don't have the code for that pokemon tcg app anymore, so i want to look back at **this** one day and be proud of how far i've walked. not because of how much i'll improve but because i don't want to stop feeling what it means when you first hello the world.
+
+hikari 0.2.0
+============
+
+[hikari](https://hikari.vlvrd.me/).
+
+todo
+====
+
+make it
+-------
+
+make it better
+--------------
+
+--- old releases below ---
 
 so, you want to go to new york.
 ===============================

@@ -1,7 +1,9 @@
 ---
 title: "vlvrd"
-description: "space dojo"
+description: ""
 ---
+
+[find your light](http://hikari.vlvrd.me/). more coming up.
 
 :book: [about/blog]({{< ref "/blog/_index.md" >}})
 
