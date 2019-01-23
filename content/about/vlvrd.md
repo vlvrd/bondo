@@ -5,7 +5,7 @@ tags: ["about"]
 title: "vlvrd"
 ---
 
-vlvrd is a space colony.
+vlvrd is a space adventure.
 
 wait.
 
