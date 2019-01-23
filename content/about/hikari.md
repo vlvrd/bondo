@@ -6,6 +6,9 @@ title: "hikari 0.2.0"
 ---
 
 "the successful warrior is the average man, with laser-like focus."
+[hikari](https://hikari.vlvrd.me/) ([source](http://www.github.com/vlvrd/hikari)).
+
+--- 0.2.0 ---
 
 day 0
 =====
@@ -24,7 +27,7 @@ which isn't at all me saying i hate my job but i'm missing a couple of things ri
 
 something i've learned is that tech skills are not enough. your projects need purpose. i didn't like programming at 10yo because, even if i did like challenges, i wasn't having fun. same now.
 
-enter [hikari](http://www.github.com/vlvrd/hikari). a focus app that serves a personal purpose: getting *me* focused again.
+enter hikari: a focus app that serves a personal purpose: getting *me* focused again.
 
 {% glitch vlvrd-hikari %}
 
@@ -32,21 +35,13 @@ i'm writing this post so that you have a light to follow if you're also taking y
 
 i don't have the code for that pokemon tcg app anymore, so i want to look back at **this** one day and be proud of how far i've walked. not because of how much i'll improve but because i don't want to stop feeling what it means when you first hello the world.
 
-hikari 0.2.0
-============
-
-[hikari](https://hikari.vlvrd.me/).
-
 todo
 ====
 
-make it
--------
+0. make it
+1. make it better
 
-make it better
---------------
-
---- old releases below ---
+--- 0.1.0 ---
 
 so, you want to go to new york.
 ===============================
@@ -127,8 +122,6 @@ i wanted to see what would happen if i stood up against me. i found out it's bet
 
 find your light.
 ================
-
-[hikari 0.1.0](http://vlvrd-hikari.glitch.me/).
 
 (:
 ==

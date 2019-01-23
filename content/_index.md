@@ -1,16 +1,18 @@
 ---
-title: "vlvrd"
-description: ""
+title: "sergio valverde"
+description: "bruce lee's reincarnation"
 ---
 
 [find your light](http://hikari.vlvrd.me/). more coming up.
 
-:book: [about/blog]({{< ref "/blog/_index.md" >}})
+:book: [blog]({{< ref "/blog/_index.md" >}})
 
-:droplet: [about/hikari]({{< ref "/about/hikari.md" >}})
+:droplet: [hikari]({{< ref "/about/hikari.md" >}})
 
-:dog: [about/me]({{< ref "/about/me/_index.md" >}})
+:dog: [me]({{< ref "/about/me/_index.md" >}})
 
-:leaves: [about/them]({{< ref "/about/them.md" >}})
+:computer: [tech]({{< ref "/tech/_index.md" >}})
 
-:rocket: [about/vlvrd]({{< ref "/about/vlvrd.md" >}})
+:leaves: [them]({{< ref "/about/them.md" >}})
+
+:rocket: [vlvrd]({{< ref "/about/vlvrd.md" >}})
