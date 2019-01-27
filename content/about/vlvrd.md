@@ -1,11 +1,11 @@
 ---
 date: 2018-09-20T12:00:00-00:00
-description: "space dojo"
+description: "space adventure"
 tags: ["about"]
 title: "vlvrd"
 ---
 
-vlvrd is a space adventure.
+vlvrd is an space adventure.
 
 wait.
 
@@ -21,7 +21,7 @@ vlvrd is me pursuing a dream.
 
 ever since i can remember, i've wanted to live in a tree house to hang out in secret when i needed a break.
 
-that tree house eventually became an attic. a place where i could isolate myself while i figured out myself. i hated the attic.
+that tree house eventually became an attic. a place where i could isolate myself while i figured out myself. i hated that attic.
 
 then, it became a spaceship. i wanted to connect with what seemed alien to me.
 
