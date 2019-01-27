@@ -15,15 +15,15 @@ i'm driven to learn and to help projects move forward. i also like helping peopl
 although maybe you shouldn't
 ============================
 
-if your company isn't invested in open source software or handle harassment cases poorly, i'm not interested.
+if your company isn't invested in open source software or handles harassment cases poorly, i'm not interested.
 
-my health is my priority: i can't work unless my body is doing ok. i have anxiety issues (medicated and i'm highly functional) so i'd rather work from home at least 3 days a week to concentrate without any problems, but i wouldn't mind moving.
+my health is my priority: i can't work unless my body is doing ok. i have anxiety issues so i'd like to be able to work from home whenever i can and need to, but i wouldn't mind moving to another country.
 
 i don't have a computer science background (i'm [studying](https://github.com/ossu/computer-science) on my own tho but no college degree). i figure stuff pretty quickly but it might be a problem for you.
 
 let's talk
 ==========
 
-i'm currently working on a cool project (low-level and kernel programming, embedded networking close-to-the-metal stuff) with modern tools and workflows (git, jenkins/travis, tdd) but i'm eager to learn more and work on open source exclusively.
+i'm currently working on cool projects with my current employer (low-level and kernel programming, embedded networking close-to-the-metal stuff) with modern tools and workflows (git, jenkins/travis, tdd) but i'm eager to learn more and work on open source exclusively.
 
 so, if ((you want to meet me || would like to hire me) && you work on a cool company that will help me help [mozilla's mission](https://www.mozilla.org/en-US/mission/)) { i'm all :ear:s (and :eyes:) }.
