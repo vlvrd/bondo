@@ -7,7 +7,11 @@ title: "notes"
 
 # notes
 
-warning! i pretty much just write what i know but i don't explain a lot. don't follow these steps unless you know what you're doing.
+warning! i pretty much just write what i know but i don't explain a lot. don't follow these notes unless you know what you're doing.
+
+## 2019/2/10
+
+retropie roms are located in ~/RetroPie/roms/$CONSOLE
 
 ## 2019/1/21
 
