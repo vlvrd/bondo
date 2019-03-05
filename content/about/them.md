@@ -22,4 +22,5 @@ software
 visual arts
 -----------
 [Juan Apéstegui](https://www.instagram.com/j_apestegui/) - one of my best friends is a super talented animator and illustrator, check him out
+
 [Max Rodriguez](https://www.instagram.com/immaxrodriguez/) - awesome tattoos
